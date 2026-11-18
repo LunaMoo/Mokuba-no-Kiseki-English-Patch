@@ -25,7 +25,8 @@ The **PPSSPP edition** is meant for HD texture packs and has a few extras:
 - Letters are placed with sub-pixel rounding, so narrow text no longer gets random gaps.
 - Text lines can be longer, so the stage briefings use the full, uncondensed translation.
 - Names such as "White Base" are shown in full (the Standard edition uses "W.Base").
-- English subtitles for the movies and for the voiced lines in missions (talking heads).
+- English subtitles for the movies and for the voiced lines in missions (talking heads)
+  TODO: test subtitles synchronization in all movies to catch some uncertain ones.
 - Labels that would run off the right edge of the screen are moved back onto it.
 - It needs PPSSPP's PSP model set to PSP-2000/3000 (the default), because it uses the
   extra memory those models have.
