@@ -71,6 +71,8 @@ You can also build the C patcher yourself: `gcc -O2 -o mokuba_patcher source/mok
 
 ## HD textures (PPSSPP edition)
 
+### TODO - only font included right now since I was unhappy with quality
+
 1. Copy the folder `hd_textures/NPJH50442` to `PSP/TEXTURES/` (so you get
    `PSP/TEXTURES/NPJH50442/textures.ini`).
 2. Enable **Settings → Tools → Developer tools → Replace textures**.
