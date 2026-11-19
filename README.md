@@ -1,4 +1,4 @@
-# Mobile Suit Gundam: Path of the Trojan Horse — English Translation
+# Mobile Suit Gundam: Path of the Trojan Horse — English Translation v0.1
 
 Fan translation of **Kidou Senshi Gundam: Mokuba no Kiseki** (機動戦士ガンダム 木馬の軌跡,
 PSP, NPJH-50442) into English.
@@ -72,7 +72,7 @@ You can also build the C patcher yourself: `gcc -O2 -o mokuba_patcher source/mok
 
 ## HD textures (PPSSPP edition)
 
-### TODO - only font included right now since I was unhappy with quality
+### TODO - only font included right now since I was unhappy with quality, plan to do a cleaner images that will also replace the current quick work back at x1 res without texture replacement.
 
 1. Copy the folder `hd_textures/NPJH50442` to `PSP/TEXTURES/` (so you get
    `PSP/TEXTURES/NPJH50442/textures.ini`).
