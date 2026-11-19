@@ -1,4 +1,4 @@
-# Mobile Suit Gundam: Path of the Trojan Horse — English Translation v0.1
+# Mobile Suit Gundam: Path of the Trojan Horse — English Translation v0.2
 
 Fan translation of **Kidou Senshi Gundam: Mokuba no Kiseki** (機動戦士ガンダム 木馬の軌跡,
 PSP, NPJH-50442) into English.
