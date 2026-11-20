@@ -7,6 +7,10 @@ Everything is translated: menus, briefings, mission objectives, unit/weapon/pilo
 help screens, tutorials, the reference manual, in-game graphics (HUD, stage titles, result
 screens, maps), the title screen logo and the save icons.
 
+Co-work of Claude AI, Local Agent (my personal harness for offline agents) and myself,
+follows official naming with no changes to the story, through some lenghty names
+can be shortened for technical reasons, especially in the compatible patch.
+
 ## Two editions
 
 | Edition | Patch file | Output | Runs on |
